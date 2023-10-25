@@ -1,0 +1,10 @@
+file:G:\C_Text\BIT-7-P76\BIT-7-P76\test.c line:61 date:Oct 25 2023 time:21:01:16 i=0
+file:G:\C_Text\BIT-7-P76\BIT-7-P76\test.c line:61 date:Oct 25 2023 time:21:01:16 i=1
+file:G:\C_Text\BIT-7-P76\BIT-7-P76\test.c line:61 date:Oct 25 2023 time:21:01:16 i=2
+file:G:\C_Text\BIT-7-P76\BIT-7-P76\test.c line:61 date:Oct 25 2023 time:21:01:16 i=3
+file:G:\C_Text\BIT-7-P76\BIT-7-P76\test.c line:61 date:Oct 25 2023 time:21:01:16 i=4
+file:G:\C_Text\BIT-7-P76\BIT-7-P76\test.c line:61 date:Oct 25 2023 time:21:01:16 i=5
+file:G:\C_Text\BIT-7-P76\BIT-7-P76\test.c line:61 date:Oct 25 2023 time:21:01:16 i=6
+file:G:\C_Text\BIT-7-P76\BIT-7-P76\test.c line:61 date:Oct 25 2023 time:21:01:16 i=7
+file:G:\C_Text\BIT-7-P76\BIT-7-P76\test.c line:61 date:Oct 25 2023 time:21:01:16 i=8
+file:G:\C_Text\BIT-7-P76\BIT-7-P76\test.c line:61 date:Oct 25 2023 time:21:01:16 i=9
